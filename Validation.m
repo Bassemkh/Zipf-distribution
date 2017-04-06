@@ -3,8 +3,6 @@ clear; clc; close all;
 m=10;
 alpha=1.5;
 n=1e5;
-X=zipfrnd( alpha,m );
-% tst
 occurance=zeros(1,m);
 sample=zipfrnd( alpha,m,n );
 for i=1:length(sample) 
