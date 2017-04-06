@@ -1,4 +1,4 @@
-% The zipf distribution parameter estiation using Maximum Likelihood
+% The zipf distribution parameter estimation using Maximum Likelihood
 clear; clc; close all;
 eps=1e-2;
 iterMax=1e2;
